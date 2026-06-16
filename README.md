@@ -33,7 +33,7 @@ You have two options to get the tool:
 ### Option A: Clone the Repository (Recommended)
 If you have Git installed, run:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ains-automation.git
+git clone (https://github.com/cqqxcqq/AINS-Rekod-Bacaan-Helper-2026.git)
 cd ains-automation
 ```
 
